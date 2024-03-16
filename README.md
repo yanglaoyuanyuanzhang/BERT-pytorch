@@ -12,7 +12,8 @@ Pytorch implementation of Google AI's 2018 BERT, with simple annotation
 
 > BERT 2018 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 > Paper URL : https://arxiv.org/abs/1810.04805
-
+谷歌人工智能2018年BERT的Pytorch实现，带有简单注释
+BERT 2018 BERT：语言理解深度双向转换器的预训练
 
 ## Introduction
 
